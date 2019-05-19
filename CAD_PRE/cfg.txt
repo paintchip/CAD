@@ -1,0 +1,6 @@
+cad_location=H:\PARKS Files\CAD\comm_log_data_test.accdb
+contacts_location=H:\PARKS Files\CAD\Zone Contacts_BE.accdb
+cen_guide_location=H:\PARKS Files\CAD\Central Panic Book.accdb
+fl_guide_location=H:\PARKS Files\CAD\Finger Lakes Panic Book.accdb
+ti_guide_location=H:\PARKS Files\CAD\TI Panic Book.accdb
+court_location=H:\PARKS Files\CAD\Judge and Court.accdb

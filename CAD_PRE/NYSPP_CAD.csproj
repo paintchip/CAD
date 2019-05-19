@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{AB45434A-7B8B-46F7-ABDD-113447AC7972}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NYSPP_CAD</RootNamespace>
+    <AssemblyName>NYSPP_CAD</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\russom\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <ReferencePath>D:\00-TEMP\NYSPP_CAD\ref\%3bD:\00-TEMP\NYSPP_CAD\img\</ReferencePath>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>Itanium</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AMD64' ">
+    <BaseAddress>4194304</BaseAddress>
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <BaseAddress>4194304</BaseAddress>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml" />
+    <Reference Include="Microsoft.Office.Interop.Outlook" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assignment.cs" />
+    <Compile Include="Browser.cs" />
+    <Compile Include="Browser.Designer.cs">
+      <DependentUpon>Browser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAD.cs" />
+    <Compile Include="CAD.Designer.cs">
+      <DependentUpon>CAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAD_Buttons.cs" />
+    <Compile Include="CAD_Calls.cs" />
+    <Compile Include="CAD_Calls.Designer.cs">
+      <DependentUpon>CAD_Calls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAD_Events.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="CAD_Events.Designer.cs">
+      <DependentUpon>CAD_Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAD_Officers.cs" />
+    <Compile Include="CAD_Officers.Designer.cs">
+      <DependentUpon>CAD_Officers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Password.cs" />
+    <Compile Include="Change_Password.Designer.cs">
+      <DependentUpon>Change_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base_Form.cs" />
+    <Compile Include="ClientIDDataObject.cs" />
+    <Compile Include="Closed_Events.cs" />
+    <Compile Include="Closed_Events.Designer.cs">
+      <DependentUpon>Closed_Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentForm.cs" />
+    <Compile Include="ComponentForm.Designer.cs">
+      <DependentUpon>ComponentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContactForm.cs" />
+    <Compile Include="ContactForm.Designer.cs">
+      <DependentUpon>ContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CourtInfo.cs" />
+    <Compile Include="CourtInfo.Designer.cs">
+      <DependentUpon>CourtInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CourtLookup.cs" />
+    <Compile Include="CourtLookup.Designer.cs">
+      <DependentUpon>CourtLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataForm.cs" />
+    <Compile Include="DataForm.Designer.cs">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="formSettings.cs" />
+    <Compile Include="MultState.cs" />
+    <Compile Include="MultState.Designer.cs">
+      <DependentUpon>MultState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Officer.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="PersonDataObject.cs" />
+    <Compile Include="PlateDataObject.cs" />
+    <Compile Include="PopulateEvents.cs" />
+    <Compile Include="PopulateEvents.Designer.cs">
+      <DependentUpon>PopulateEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reset_Password.cs" />
+    <Compile Include="Reset_Password.Designer.cs">
+      <DependentUpon>Reset_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RunData.cs" />
+    <Compile Include="RunData.Designer.cs">
+      <DependentUpon>RunData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RunDataObject.cs" />
+    <Compile Include="EnterCall.cs" />
+    <Compile Include="EnterCall.Designer.cs">
+      <DependentUpon>EnterCall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ERG.cs" />
+    <Compile Include="ERG.Designer.cs">
+      <DependentUpon>ERG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchLog.cs" />
+    <Compile Include="SearchLog.Designer.cs">
+      <DependentUpon>SearchLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Events.cs" />
+    <Compile Include="Search_Events.Designer.cs">
+      <DependentUpon>Search_Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Event_Form.cs" />
+    <Compile Include="New_Event_Form.Designer.cs">
+      <DependentUpon>New_Event_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs" />
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hash.cs" />
+    <Compile Include="InboxManager.cs" />
+    <Compile Include="InboxManager.Designer.cs">
+      <DependentUpon>InboxManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <DependentUpon>Resources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimedMessageBox.cs" />
+    <Compile Include="Tools.cs" />
+    <Compile Include="TransparentTextBox.cs" />
+    <Compile Include="TransparentTextBox.Designer.cs">
+      <DependentUpon>TransparentTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="Vehicle.cs" />
+    <Compile Include="View_Event_Form.cs" />
+    <Compile Include="View_Event_Form.Designer.cs">
+      <DependentUpon>View_Event_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VinDataObject.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\Debug\edit.ico" />
+    <None Include="bin\Debug\logo.ico" />
+    <None Include="cfg.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="img\alarm.png" />
+    <None Include="img\cancel.png" />
+    <None Include="img\check.ico" />
+    <None Include="img\clear.ico" />
+    <None Include="img\edit.ico" />
+    <None Include="img\exc.png" />
+    <None Include="img\hang_up.png" />
+    <None Include="img\logo.ico" />
+    <None Include="img\no_response.png" />
+    <None Include="img\open_folder.ico" />
+    <None Include="img\refresh.ico" />
+    <None Include="img\search.ico" />
+    <None Include="img\silent.png" />
+    <None Include="img\wrong_number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Browser.resx">
+      <DependentUpon>Browser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAD.resx">
+      <DependentUpon>CAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAD_Calls.resx">
+      <DependentUpon>CAD_Calls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAD_Events.resx">
+      <DependentUpon>CAD_Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAD_Officers.resx">
+      <DependentUpon>CAD_Officers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Password.resx">
+      <DependentUpon>Change_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Closed_Events.resx">
+      <DependentUpon>Closed_Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentForm.resx">
+      <DependentUpon>ComponentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactForm.resx">
+      <DependentUpon>ContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourtInfo.resx">
+      <DependentUpon>CourtInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourtLookup.resx">
+      <DependentUpon>CourtLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataForm.resx">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterCall.resx">
+      <DependentUpon>EnterCall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ERG.resx">
+      <DependentUpon>ERG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InboxManager.resx">
+      <DependentUpon>InboxManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultState.resx">
+      <DependentUpon>MultState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Event_Form.resx">
+      <DependentUpon>New_Event_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopulateEvents.resx">
+      <DependentUpon>PopulateEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reset_Password.resx">
+      <DependentUpon>Reset_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx">
+      <DependentUpon>Resources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RunData.resx">
+      <DependentUpon>RunData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchLog.resx">
+      <DependentUpon>SearchLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Events.resx">
+      <DependentUpon>Search_Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Event_Form.resx">
+      <DependentUpon>View_Event_Form.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin" />
+    <Folder Include="bin\Debug" />
+    <Folder Include="img" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NYSPP_CAD.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

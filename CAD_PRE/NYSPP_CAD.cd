@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NYSPP_CAD.PopulateEvents" Collapsed="False">
+    <Position X="0.5" Y="4.2" Width="2.390021" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CourtLookup" Collapsed="False">
+    <Position X="3.2" Y="4.2" Width="2.390021" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.baseform" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.210358" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Settings" Collapsed="False">
+    <Position X="6" Y="4.2" Width="2.86547" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.User" Collapsed="False">
+    <Position X="0.5" Y="29.6" Width="2.356022" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CAD" Collapsed="False">
+    <Position X="9.2" Y="4.2" Width="2.009049" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Tools" Collapsed="False">
+    <Position X="0.5" Y="35.2" Width="2.576559" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.MultState" Collapsed="False">
+    <Position X="11.7" Y="4.2" Width="2.390021" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Login" Collapsed="False">
+    <Position X="0.5" Y="40.3" Width="2.57006" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.ComponentForm" Collapsed="False">
+    <Position X="14.4" Y="4.2" Width="2.278249" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CAD_Calls" Collapsed="False">
+    <Position X="0.5" Y="45.5" Width="2.52027" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.View_Event_Form" Collapsed="False">
+    <Position X="17.1" Y="4.2" Width="3.073063" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.New_Event_Form" Collapsed="False">
+    <Position X="20.6" Y="4.2" Width="2.808429" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.ERG" Collapsed="False">
+    <Position X="23.8" Y="4.2" Width="2.064533" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.InboxManager" Collapsed="False">
+    <Position X="0.5" Y="49.7" Width="2.563024" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Email" Collapsed="False">
+    <Position X="0.5" Y="53" Width="1.885138" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Change_Password" Collapsed="False">
+    <Position X="26.3" Y="4.2" Width="2.491803" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Assignment" Collapsed="False">
+    <Position X="0.5" Y="54.5" Width="1.763483" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.formSettings" Collapsed="False">
+    <Position X="0.5" Y="59.7" Width="1.851462" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.ClientIDDataObject" Collapsed="False">
+    <Position X="0.5" Y="25.8" Width="2.521559" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.RunDataObject" Collapsed="False">
+    <Position X="0.5" Y="22.4" Width="2.128717" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.EnterCall" Collapsed="False">
+    <Position X="29.2" Y="4.2" Width="1.78443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Browser" Collapsed="False">
+    <Position X="31.3" Y="4.2" Width="2.563024" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.InputBox" Collapsed="False">
+    <Position X="0.5" Y="62.8" Width="2.198288" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.ContactForm" Collapsed="False">
+    <Position X="34.3" Y="4.2" Width="1.88777" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Person" Collapsed="False">
+    <Position X="0.5" Y="64.2" Width="1.721159" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.PersonDataObject" Collapsed="False">
+    <Position X="3.3" Y="25.8" Width="2.431003" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CourtInfo" Collapsed="False">
+    <Position X="36.6" Y="4.2" Width="2.390021" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.PlateDataObject" Collapsed="False">
+    <Position X="6.2" Y="25.8" Width="2.230875" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Reset_Password" Collapsed="False">
+    <Position X="0.5" Y="72.5" Width="2.323097" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.RunData" Collapsed="False">
+    <Position X="39.4" Y="4.2" Width="1.78443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.DataForm" Collapsed="False">
+    <Position X="0.5" Y="75.9" Width="1.824713" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Program" Collapsed="False">
+    <Position X="0.5" Y="86" Width="1.444186" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Resources" Collapsed="False">
+    <Position X="41.6" Y="4.2" Width="1.917472" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Registration_Form" Collapsed="False">
+    <Position X="43.9" Y="4.2" Width="2.443571" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Hash" Collapsed="False">
+    <Position X="0.5" Y="87.4" Width="1.814616" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CAD_Events" Collapsed="False">
+    <Position X="0.5" Y="89.7" Width="2.52027" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CAD_Officers" Collapsed="False">
+    <Position X="0.5" Y="94.1" Width="2.52027" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.TransparentTextBox" Collapsed="False">
+    <Position X="0.5" Y="99.9" Width="2.63113" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.VinDataObject" Collapsed="False">
+    <Position X="8.8" Y="25.8" Width="2.04192" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.Vehicle" Collapsed="False">
+    <Position X="0.5" Y="102" Width="1.721159" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="NYSPP_CAD.CAD_Buttons" Collapsed="False">
+    <Position X="0.5" Y="110.1" Width="2.608088" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

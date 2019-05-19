@@ -1,0 +1,99 @@
+Z:\NYSPP_CAD\bin\Debug\NYSPP_CAD.exe.config
+Z:\NYSPP_CAD\bin\Debug\NYSPP_CAD.exe
+Z:\NYSPP_CAD\bin\Debug\NYSPP_CAD.pdb
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.csprojResolveAssemblyReference.cache
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.EnterCall.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.InboxManager.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Login.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.csproj.GenerateResource.Cache
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.exe
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.pdb
+D:\00-TEMP\NYSPP_CAD\bin\Debug\NYSPP_CAD.exe.config
+D:\00-TEMP\NYSPP_CAD\bin\Debug\NYSPP_CAD.exe
+D:\00-TEMP\NYSPP_CAD\bin\Debug\NYSPP_CAD.pdb
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Events.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.ComponentForm.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.EnterCall.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.InboxManager.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Login.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.csproj.GenerateResource.Cache
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.exe
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.pdb
+D:\00-TEMP\NYSPP_CAD\bin\Debug\cfg.txt
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Calls.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Officers.resources
+Z:\NYSPP_CAD\bin\Debug\cfg.txt
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Calls.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Events.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CAD_Officers.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.ComponentForm.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Browser.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Browser.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.ContactForm.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.ContactForm.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.ERG.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CourtLookup.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.CourtInfo.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CourtInfo.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.CourtLookup.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.ERG.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Registration_Form.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Change_Password.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Change_Password.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Registration_Form.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Resources.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Resources.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.New_Event_Form.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Settings.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.View_Event_Form.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.New_Event_Form.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Settings.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.View_Event_Form.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.RunData.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.RunData.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Reset_Password.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.Reset_Password.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.DataForm.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.DataForm.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.PopulateEvents.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.PopulateEvents.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.MultState.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.MultState.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.csprojResolveAssemblyReference.cache
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.SearchLog.resources
+D:\00-TEMP\NYSPP_CAD\obj\Debug\NYSPP_CAD.SearchLog.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Search_Events.resources
+Z:\NYSPP_CAD\obj\Debug\NYSPP_CAD.Closed_Events.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.csprojResolveAssemblyReference.cache
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Browser.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CAD.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CAD_Calls.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CAD_Events.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CAD_Officers.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Change_Password.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Closed_Events.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.ComponentForm.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.ContactForm.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CourtInfo.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.CourtLookup.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.DataForm.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.EnterCall.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.ERG.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.InboxManager.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Login.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.MultState.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.New_Event_Form.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.PopulateEvents.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Registration_Form.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Reset_Password.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Resources.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.RunData.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.SearchLog.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Search_Events.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.Settings.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.View_Event_Form.resources
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.csproj.GenerateResource.Cache
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.exe
+H:\PARKS Files\CAD\CAD_BACKUP\obj\Debug\NYSPP_CAD.pdb

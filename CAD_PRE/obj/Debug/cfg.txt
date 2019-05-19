@@ -1,0 +1,6 @@
+cad_location=\\cenfile1\police$\Dispatching disk\databases\comm_log_data_test.accdb
+contacts_location=\\oprhp-smb\oprhp_shared\Midstate\District Files\Contacts\Zone Contacts_BE.accdb
+cen_guide_location=\\cenfile1\police$\CENTRAL REGION DRIVE\Dispatch Reference\EMERGENCY REFERENCE GUIDES\Central Panic Book.accdb
+fl_guide_location=\\cenfile1\police$\CENTRAL REGION DRIVE\Dispatch Reference\EMERGENCY REFERENCE GUIDES\Finger Lakes Panic Book.accdb
+ti_guide_location=\\cenfile1\police$\CENTRAL REGION DRIVE\Dispatch Reference\EMERGENCY REFERENCE GUIDES\TI Panic Book.accdb
+court_location=\\cenfile1\police$\CENTRAL REGION DRIVE\COURT\Judge and Court.accdb
